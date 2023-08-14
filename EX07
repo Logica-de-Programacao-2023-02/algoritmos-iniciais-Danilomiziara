@@ -1,0 +1,12 @@
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+
+1: Var primo = x/x ou x/1 = resultado = 1 ou x
+2: leia número
+3: para cada número:
+3.1: substituir x pelo número na var primo
+4: se resultado = igual 1 ou x
+5: então faça número / 2 = resultado2
+6: se resultado2 tem como resto 0
+7: não exibir resultado
+8: senão faça número / 3 = resultado3
+9: se resultado3 tem como resto 0
