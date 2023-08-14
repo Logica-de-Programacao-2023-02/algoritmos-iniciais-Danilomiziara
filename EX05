@@ -1,0 +1,8 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+1: faça leitura da lista de elementos
+2: para cada elemento
+3: se ( elemento = A )
+4: então exbir A
+5: senão
+6: não exibir nada
