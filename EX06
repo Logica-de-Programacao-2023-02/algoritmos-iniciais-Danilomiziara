@@ -1,0 +1,8 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência. 
+
+1: potência = ( x^y ) 
+2: leia x
+3: leia expoente
+4: para cada número entre 1 e expoente:
+4.1: faça x * x = resultado
+5: exibir resultado
